@@ -1,0 +1,14 @@
+layout_spectrum: 0.9322876313235611
+typography_spectrum: 0.07635768735781312
+color:
+  brandStrength: 0.9367901419755071
+  lightness: 0.21555794891901314
+  saturation: 0.5458783765789121
+  rhythmicContrast: 0.05790477292612195
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: jlrtest
