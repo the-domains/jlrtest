@@ -6,9 +6,9 @@ color:
   saturation: 0.5458783765789121
   rhythmicContrast: 0.05790477292612195
   brandColors:
-    - '#CFC291'
-    - '#FFF6C5'
-    - '#A1E8D9'
-    - '#FF712C'
-    - '#695D46'
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
 name: jlrtest
