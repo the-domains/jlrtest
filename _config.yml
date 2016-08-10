@@ -1,4 +1,3 @@
-layout_spectrum: 0.9322876313235611
 typography_spectrum: 0.07635768735781312
 color:
   brandStrength: 0.9367901419755071
@@ -11,4 +10,6 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.9322876313235611
 name: jlrtest
+title: John Was Here
