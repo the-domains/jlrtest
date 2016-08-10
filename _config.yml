@@ -12,5 +12,9 @@ color:
     - '#C7CAD1'
 layout_spectrum: 0.9322876313235611
 name: jlrtest
+navigation:
+  - name: CAVUCode
+    url: 'http://cavucode.com'
+    type: external
 title: John Was Here
 description: What is the grid?
